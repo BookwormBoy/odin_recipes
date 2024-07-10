@@ -1,1 +1,1 @@
-# odin_recipes
+A practice website I made as part of The Odin pRoject tutorial for HTML using links, images and lists.
